@@ -1,13 +1,7 @@
 # Automatic-Image-Slider-SwiftUI
 Im trying to create an automatic image slider, but I've encountered a few problems which I can't seem to figure out. Would be much appreciated if someone would take a look at this, and help me out.
 
-Problem i have now:
-
-When the slider is interacted with, the timer stops after the user is done with the slider.
-
 What im trying to achieve is:
-
-Infinite Scrolling View
 
 Page indicators to be shown at the far down left of the image slider.
 
